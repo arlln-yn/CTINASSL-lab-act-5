@@ -11,5 +11,4 @@
 
 ## New Scan
 
-- **CSP Wildcard Directive**
 - **Hidden File Found**
