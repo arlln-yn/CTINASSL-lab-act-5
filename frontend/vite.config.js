@@ -14,7 +14,7 @@ export default defineConfig({
       'X-Frame-Options': 'DENY',
       'Content-Security-Policy':
         "default-src 'self'; " +
-        "script-src 'self' 'strict-dynamic'; " +
+        "script-src 'self' 'unsafe-inline'; " +
         "style-src 'self' https://fonts.googleapis.com; " +
         "img-src 'self' data: https://smiski.com/e/products/; " +
         "frame-ancestors 'none'; " +
